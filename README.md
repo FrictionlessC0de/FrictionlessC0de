@@ -51,7 +51,7 @@ const FrictionlessC0de = {
 
 > *"In a world of infinite complexity, one developer from Harar chose to make it frictionless."*
 
-- 🌍 Born and forged in **Harar, Ethiopia** — the city of walls and warriors
+- 🌍 Born and forged in **Harar, Ethiopia** — the city of walls
 - ⚔️ Fighting bugs since day one, building from the Horn of Africa to the world
 - 🔬 Inspired by **Senku's** *"10 billion percent"* — science and code as weapons
 - 🌀 Channeling **Madara's** calm and strategy — every line of code a calculated move
