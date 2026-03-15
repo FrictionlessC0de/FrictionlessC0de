@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ABENEZER%20NIGUSE&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=⚡%20FrictionlessC0de%20—%20The%20Code%20Awakens%20⚡&descAlignY=65&descColor=a78bfa&stroke=a78bfa&strokeWidth=1.5" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=⚔️+FULL-STACK+DEVELOPER;🔥+REACT+%2B+NODE.JS+%2B+TYPESCRIPT;📖+WRITING+CODE+LIKE+MANGA+PANELS;✍️+"THIS+IS+MY+NINJA+WAY"+—+NARUTO;🔬+"10+BILLION+PERCENT"+—+SENKU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+FULL-STACK+DEVELOPER;%F0%9F%94%A5+REACT+%2B+NODE.JS+%2B+TYPESCRIPT;%F0%9F%94%B4+DEBUGGING+WITH+THE+SHARINGAN+%F0%9F%94%B4;THIS+IS+MY+CODING+WAY;10+BILLION+PERCENT" alt="Typing SVG" />
 
 <br/><br/>
 
