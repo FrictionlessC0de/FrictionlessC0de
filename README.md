@@ -3,15 +3,14 @@
 <!-- Manga-style animated banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:000000&height=220&section=header&text=ABENEZER%20NIGUSE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%9A%A1%20FrictionlessC0de%20%E2%80%94%20The%20Code%20Awakens%20%E2%9A%A1&descAlignY=62&descColor=58a6ff&stroke=58a6ff&strokeWidth=2" />
 
-<!-- Typing SVG — manga style lines -->
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+FULL-STACK+DEVELOPER;%F0%9F%94%A5+REACT+%2B+NODE.JS+%2B+TYPESCRIPT;%F0%9F%93%96+WRITING+CODE+LIKE+MANGA+PANELS;%E2%9C%8D%EF%B8%8F+%22THIS+IS+MY+NINJA+WAY%22+—+NARUTO;%F0%9F%94%AC+%2210+BILLION+PERCENT%22+—+SENKU" alt="Typing SVG" />
 
 <br/>
 
-<!-- Arc divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- Social badges styled dark -->
+<!-- Social badges -->
 <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -27,7 +26,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="280" />
+<img align="right" src="./senku.svg" width="160" alt="Senku Ishigami" />
 
 ## ⚡ CHARACTER PROFILE
 
@@ -35,7 +34,7 @@
 const FrictionlessC0de = {
   name      : "Abenezer Niguse",
   alias     : "FrictionlessC0de",
-  location  : "Rotterdam, Netherlands 🇳🇱",
+  origin    : "Harar, Ethiopia 🇪🇹",
   class     : "Full-Stack Developer",
   guild     : "Open Source Builders",
   power     : "10 Billion Percent 🔬",
@@ -52,11 +51,12 @@ const FrictionlessC0de = {
 
 ## 📜 ARC I — ORIGIN STORY
 
-> *"In a world of infinite complexity, one developer chose to make it frictionless."*
+> *"In a world of infinite complexity, one developer from Harar chose to make it frictionless."*
 
-- ⚔️ Fighting bugs since day one, Rotterdam's finest full-stack warrior
+- 🌍 Born and forged in **Harar, Ethiopia** — the city of walls and warriors
+- ⚔️ Fighting bugs since day one, building from the Horn of Africa to the world
 - 🔬 Inspired by **Senku's** *"10 billion percent"* — science and code as weapons
-- 🌀 Channeling **Madara's** power — calm, strategic, unstoppable
+- 🌀 Channeling **Madara's** calm and strategy — every line of code a calculated move
 - 🎯 Current mission: building scalable web apps & open-source tools
 - 📡 Seeking: remote quests, open-source collaborations, and worthy opponents (bugs)
 
@@ -108,7 +108,7 @@ const FrictionlessC0de = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrictionlessC0de&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=ff6b6b&text_color=ffffff&ring_color=58a6ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrictionlessC0de&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=ff6b6b&text_color=ffffff" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrictionlessC0de&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=ffffff&langs_count=8" />
 
 <br/>
@@ -150,28 +150,38 @@ const FrictionlessC0de = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🔬 ARC V — SENSEI QUOTES
+## 🔬 ARC V — WORDS OF THE MASTERS
 
 <div align="center">
 
-<!-- Auto-refreshes on every page visit — zero setup -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
 <br/>
 
-> *"There are a trillion reasons why this can't be done. But I only need one reason why it CAN."*
-> — **Senku Ishigami**, Dr. Stone
-
-> *"The ones who aren't capable of killing should stay out of my way."*
-> — **Madara Uchiha**, Naruto
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img src="./senku.svg" width="120" alt="Senku" /><br/>
+<b>Senku Ishigami</b><br/>
+<i>"There are a trillion reasons this can't be done.<br/>I only need one reason why it CAN."</i><br/>
+— Dr. Stone
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/MADARA-UCHIHA-8B0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiM4QjAwMDAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0IiBmaWxsPSIjMzMwMDAwIi8+PC9zdmc+" /><br/><br/>
+<b>Madara Uchiha</b><br/>
+<i>"Wake up to reality. Nothing ever goes<br/>as planned in this accursed world."</i><br/>
+— Naruto Shippuden
+</td>
+</tr>
+</table>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🌀 ARC VI — FIND ME
+## 🌍 ARC VI — FIND ME
 
 <div align="center">
 
@@ -181,9 +191,8 @@ const FrictionlessC0de = {
 
 <br/>
 
-<!-- Animated footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=130&section=footer&animation=fadeIn&fontColor=58a6ff&fontSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=130&section=footer&animation=fadeIn" />
 
-*— The saga continues. Watch this space. —*
+*"From the ancient walls of Harar to the infinite world of code — the saga continues."*
 
 </div>
