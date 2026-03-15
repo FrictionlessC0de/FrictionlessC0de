@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- STUNNING BANNER — soft gradient, glowing Japanese aesthetic -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:020024,30:090979,60:00d4ff,100:0d1117&height=220&section=header&text=ABENEZER%20NIGUSE&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=⚡%20FrictionlessC0de%20—%20The%20Code%20Awakens%20⚡&descAlignY=65&descColor=00d4ff&stroke=00d4ff&strokeWidth=1.5" />
+<!-- Deep Purple Waving Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ABENEZER%20NIGUSE&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=⚡%20FrictionlessC0de%20—%20The%20Code%20Awakens%20⚡&descAlignY=65&descColor=a78bfa&stroke=a78bfa&strokeWidth=1.5" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=⚔️+FULL-STACK+DEVELOPER;🔥+REACT+%2B+NODE.JS+%2B+TYPESCRIPT;📖+WRITING+CODE+LIKE+MANGA+PANELS;✍️+"THIS+IS+MY+NINJA+WAY"+—+NARUTO;🔬+"10+BILLION+PERCENT"+—+SENKU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=⚔️+FULL-STACK+DEVELOPER;🔥+REACT+%2B+NODE.JS+%2B+TYPESCRIPT;📖+WRITING+CODE+LIKE+MANGA+PANELS;✍️+"THIS+IS+MY+NINJA+WAY"+—+NARUTO;🔬+"10+BILLION+PERCENT"+—+SENKU" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/><br/>
 
 <!-- Social badges -->
 <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=FrictionlessC0de&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=FrictionlessC0de&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
 <a href="https://github.com/FrictionlessC0de?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/FrictionlessC0de?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/FrictionlessC0de?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/FrictionlessC0de?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
@@ -104,44 +102,27 @@ const FrictionlessC0de = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📊 ARC III — BATTLE STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrictionlessC0de&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrictionlessC0de&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&text_color=ffffff&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=FrictionlessC0de&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8b949e&stroke=00d4ff" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🗡️ ARC IV — PINNED MISSIONS
+## 🗡️ ARC III — PINNED MISSIONS
 
 <div align="center">
 
 <a href="https://github.com/FrictionlessC0de/weather-app">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=ff6b6b&text_color=ffffff" />
 </a>
 <a href="https://github.com/FrictionlessC0de/ecommerce-api">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=ecommerce-api&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=ecommerce-api&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=ff6b6b&text_color=ffffff" />
 </a>
 <a href="https://github.com/FrictionlessC0de/ml-image-classifier">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=ml-image-classifier&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=ml-image-classifier&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=ff6b6b&text_color=ffffff" />
 </a>
 <a href="https://github.com/FrictionlessC0de/auth-service">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=auth-service&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=auth-service&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=ff6b6b&text_color=ffffff" />
 </a>
 
 <br/>
 
 <a href="https://github.com/FrictionlessC0de?tab=repositories&sort=stargazers">
-  <img src="https://custom-icon-badges.demolab.com/badge/-⚔️%20View%20All%20Missions-0d0d1a?style=for-the-badge&logoColor=00d4ff&logo=repo&labelColor=090979" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-⚔️%20View%20All%20Missions-0f0c29?style=for-the-badge&logoColor=a78bfa&logo=repo&labelColor=302b63" />
 </a>
 
 </div>
@@ -150,18 +131,16 @@ const FrictionlessC0de = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🔬 ARC V — WORDS OF THE MASTERS
+## 🔬 ARC IV — WORDS OF THE MASTERS
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br/><br/>
-
 > 🔬 *"There are a trillion reasons this can't be done. I only need one reason why it CAN."*
+>
 > — **Senku Ishigami**, Dr. Stone
 
 > 🌀 *"Wake up to reality. Nothing ever goes as planned in this accursed world."*
+>
 > — **Madara Uchiha**, Naruto Shippuden
 
 </div>
@@ -170,7 +149,7 @@ const FrictionlessC0de = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🌍 ARC VI — FIND ME
+## 🌍 ARC V — FIND ME
 
 <div align="center">
 
@@ -180,8 +159,8 @@ const FrictionlessC0de = {
 
 <br/>
 
-<!-- Footer wave matching banner colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,30:090979,60:00d4ff,100:020024&height=140&section=footer&animation=twinkling&fontColor=00d4ff" />
+<!-- Footer wave matching banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" />
 
 *"From the ancient walls of Harar to the infinite world of code — the saga continues."*
 
