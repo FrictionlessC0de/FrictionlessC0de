@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Manga-style animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:000000&height=220&section=header&text=ABENEZER%20NIGUSE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%9A%A1%20FrictionlessC0de%20%E2%80%94%20The%20Code%20Awakens%20%E2%9A%A1&descAlignY=62&descColor=58a6ff&stroke=58a6ff&strokeWidth=2" />
+<!-- STUNNING BANNER — soft gradient, glowing Japanese aesthetic -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:020024,30:090979,60:00d4ff,100:0d1117&height=220&section=header&text=ABENEZER%20NIGUSE&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=⚡%20FrictionlessC0de%20—%20The%20Code%20Awakens%20⚡&descAlignY=65&descColor=00d4ff&stroke=00d4ff&strokeWidth=1.5" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+FULL-STACK+DEVELOPER;%F0%9F%94%A5+REACT+%2B+NODE.JS+%2B+TYPESCRIPT;%F0%9F%93%96+WRITING+CODE+LIKE+MANGA+PANELS;%E2%9C%8D%EF%B8%8F+%22THIS+IS+MY+NINJA+WAY%22+—+NARUTO;%F0%9F%94%AC+%2210+BILLION+PERCENT%22+—+SENKU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=⚔️+FULL-STACK+DEVELOPER;🔥+REACT+%2B+NODE.JS+%2B+TYPESCRIPT;📖+WRITING+CODE+LIKE+MANGA+PANELS;✍️+"THIS+IS+MY+NINJA+WAY"+—+NARUTO;🔬+"10+BILLION+PERCENT"+—+SENKU" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=FrictionlessC0de&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=FrictionlessC0de&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
 <a href="https://github.com/FrictionlessC0de?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/FrictionlessC0de?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/FrictionlessC0de?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/FrictionlessC0de?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
@@ -26,7 +26,7 @@
 
 ---
 
-<img align="right" src="./senku.svg" width="160" alt="Senku Ishigami" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="280" />
 
 ## ⚡ CHARACTER PROFILE
 
@@ -108,12 +108,12 @@ const FrictionlessC0de = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrictionlessC0de&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=ff6b6b&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrictionlessC0de&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrictionlessC0de&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrictionlessC0de&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&text_color=ffffff&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=FrictionlessC0de&theme=tokyonight&hide_border=true&background=000000&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=ffffff&dates=8b949e&stroke=58a6ff" />
+<img src="https://streak-stats.demolab.com?user=FrictionlessC0de&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8b949e&stroke=00d4ff" />
 
 </div>
 
@@ -126,22 +126,22 @@ const FrictionlessC0de = {
 <div align="center">
 
 <a href="https://github.com/FrictionlessC0de/weather-app">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=weather-app&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=ff6b6b&text_color=ffffff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
 </a>
 <a href="https://github.com/FrictionlessC0de/ecommerce-api">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=ecommerce-api&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=ff6b6b&text_color=ffffff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=ecommerce-api&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
 </a>
 <a href="https://github.com/FrictionlessC0de/ml-image-classifier">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=ml-image-classifier&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=ff6b6b&text_color=ffffff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=ml-image-classifier&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
 </a>
 <a href="https://github.com/FrictionlessC0de/auth-service">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=auth-service&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=ff6b6b&text_color=ffffff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrictionlessC0de&repo=auth-service&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff" />
 </a>
 
 <br/>
 
 <a href="https://github.com/FrictionlessC0de?tab=repositories&sort=stargazers">
-  <img src="https://custom-icon-badges.demolab.com/badge/-⚔️%20View%20All%20Missions-000000?style=for-the-badge&logoColor=58a6ff&logo=repo&color=000000&labelColor=1a1a2e" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-⚔️%20View%20All%20Missions-0d0d1a?style=for-the-badge&logoColor=00d4ff&logo=repo&labelColor=090979" />
 </a>
 
 </div>
@@ -156,26 +156,15 @@ const FrictionlessC0de = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
+<br/><br/>
+
+> 🔬 *"There are a trillion reasons this can't be done. I only need one reason why it CAN."*
+> — **Senku Ishigami**, Dr. Stone
+
+> 🌀 *"Wake up to reality. Nothing ever goes as planned in this accursed world."*
+> — **Madara Uchiha**, Naruto Shippuden
+
 </div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-<img src="./senku.svg" width="120" alt="Senku" /><br/>
-<b>Senku Ishigami</b><br/>
-<i>"There are a trillion reasons this can't be done.<br/>I only need one reason why it CAN."</i><br/>
-— Dr. Stone
-</td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/MADARA-UCHIHA-8B0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiM4QjAwMDAiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0IiBmaWxsPSIjMzMwMDAwIi8+PC9zdmc+" /><br/><br/>
-<b>Madara Uchiha</b><br/>
-<i>"Wake up to reality. Nothing ever goes<br/>as planned in this accursed world."</i><br/>
-— Naruto Shippuden
-</td>
-</tr>
-</table>
 
 ---
 
@@ -191,7 +180,8 @@ const FrictionlessC0de = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=130&section=footer&animation=fadeIn" />
+<!-- Footer wave matching banner colors -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,30:090979,60:00d4ff,100:020024&height=140&section=footer&animation=twinkling&fontColor=00d4ff" />
 
 *"From the ancient walls of Harar to the infinite world of code — the saga continues."*
 
